@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Enviar solicitação de e…",
+  "Type": "Element",
+  "Id": "gmHP3bRLTkmI-jh3OO_f2A",
+  "Reference": "Li4TeoPx7k63s7GUSfssHw/gmHP3bRLTkmI-jh3OO_f2A",
+  "ParentRef": "Li4TeoPx7k63s7GUSfssHw/53mqXN0cs0CGjnV4FnnHig",
+  "Created": "2025-06-07T18:26:38.3128392Z",
+  "Updated": "2025-06-07T18:26:38.3128392Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Você foi aprovado para …",
+  "Type": "Element",
+  "Id": "J4jaFkrV4USrerZhSVMqNA",
+  "Reference": "Li4TeoPx7k63s7GUSfssHw/J4jaFkrV4USrerZhSVMqNA",
+  "ParentRef": "Li4TeoPx7k63s7GUSfssHw/53mqXN0cs0CGjnV4FnnHig",
+  "Created": "2025-06-07T18:31:17.3965594Z",
+  "Updated": "2025-06-07T18:31:17.3965594Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

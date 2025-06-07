@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dvHL7vv3bkiZF0l-pQOvvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="390678d2-ac0b-491c-ac29-1ffb2973682a" CvElementArea="705, 667, 511, 54" CvType="InputBox" DesignTimeRectangle="706, 668, 509, 54" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='term' tag='SELECT' type='number' class='form-control uibank-input select-color ng-pristine ng-invalid ng-touched' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b9255c5a-c096-4207-9e02-751de7eea47d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Solicitar empréstimo UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="390678d2-ac0b-491c-ac29-1ffb2973682a" CvTextArea="704, 651, 122, 13" CvTextArgument="Prazo do empréstimo" CvType="Text" DesignTimeRectangle="706, 649, 120, 16" FuzzySelectorArgument="&lt;webctrl aaname='Prazo do empréstimo' tag='FONT' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Prazo do empréstimo' /&gt;" Guid="2970202e-21f5-491e-afbe-145410232dc3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9890ccc7ad797cf6d2a69157c322c65c.png" xmlns="">00yFtA0lAakmoSt_NASisWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

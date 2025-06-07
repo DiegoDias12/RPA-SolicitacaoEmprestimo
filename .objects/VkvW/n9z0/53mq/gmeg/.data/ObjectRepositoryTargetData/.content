@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JToJGcntpkGWPD3CvBCszQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="e5754f4c-91cc-40fd-9044-a4886868dab0" CvElementArea="706, 574, 509, 54" CvType="InputBox" DesignTimeRectangle="706, 574, 509, 54" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='amount' tag='INPUT' type='number' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Insira o valor do empréstimo que você está procurando' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d62c74c8-b6c3-4fc8-9a80-ca6265fdddcb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Solicitar empréstimo UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e5754f4c-91cc-40fd-9044-a4886868dab0" CvTextArea="704, 556, 179, 12" CvTextArgument="Valor do empréstimo solicitado" CvType="Text" DesignTimeRectangle="706, 555, 176, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='uibank-label' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Valor do empréstimo solicitado' /&gt;" Guid="25843e9d-cb17-4b14-9c3f-01e0f37a535b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f891ba1309185b4568b6066803ca2a74.png" xmlns="">0gW1Wfg2EJkG4doRt2xkfng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

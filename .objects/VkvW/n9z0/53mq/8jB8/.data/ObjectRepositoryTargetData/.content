@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f9aXO5EV20Oa4RnVk7FkyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="e10282a0-2879-4263-89d8-fa559fcfb066" CvElementArea="707, 478, 509, 57" CvType="InputBox" DesignTimeRectangle="706, 479, 509, 55" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='email' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Digite o endereço de e-mail' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="4b064206-f095-4a8e-823c-f537911f7a2a" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Solicitar empréstimo UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e10282a0-2879-4263-89d8-fa559fcfb066" CvTextArea="704, 461, 191, 15" CvTextArgument="Endereço de e-mail do solicitante" CvType="Text" DesignTimeRectangle="706, 460, 189, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='uibank-label' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Endereço de e-mail do solicitante' /&gt;" Guid="4de4156d-c428-4e9a-a452-596d051a3bc0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="76103f22aab0b3d883ed482e5ff9c81c.png" xmlns="">05IoCmUQg60mehfWCMeGviA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

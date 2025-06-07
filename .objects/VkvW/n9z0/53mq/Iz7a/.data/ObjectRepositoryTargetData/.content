@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KIeQkgQ1wkS42YrhAK6h-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="4a3cb83f-6444-4484-9885-7775ba2417f3" CvElementArea="705, 856, 510, 56" CvType="InputBox" DesignTimeRectangle="706, 857, 509, 54" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='age' tag='INPUT' type='number' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Por favor, insira sua idade' aaname='Idade' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="098196b9-82ef-4926-a1aa-f8131a983e11" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Solicitar empréstimo UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4a3cb83f-6444-4484-9885-7775ba2417f3" CvTextArea="704, 840, 35, 11" CvTextArgument="Idade" CvType="Text" DesignTimeRectangle="706, 838, 33, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='uibank-label' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Idade' /&gt;" Guid="0ca0d848-664d-41ec-8a5a-32f2f6b1c8dc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0b2d3dd00e24942447aba859794396b0.png" xmlns="">0XQI3PCfGFU6Bh-EifBF9Vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

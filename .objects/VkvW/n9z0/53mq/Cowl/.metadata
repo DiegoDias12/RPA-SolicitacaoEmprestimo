@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Solicitar outro emprést…",
+  "Type": "Element",
+  "Id": "CowlZihRJE6pCjoAula2Vg",
+  "Reference": "Li4TeoPx7k63s7GUSfssHw/CowlZihRJE6pCjoAula2Vg",
+  "ParentRef": "Li4TeoPx7k63s7GUSfssHw/53mqXN0cs0CGjnV4FnnHig",
+  "Created": "2025-06-07T18:29:01.2884323Z",
+  "Updated": "2025-06-07T18:29:01.2884323Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

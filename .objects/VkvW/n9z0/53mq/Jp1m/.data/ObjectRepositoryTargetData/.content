@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gl6KLrhEfEqAYCATExYJzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/apply" CVScreenId="a2427d06-c9b4-449d-a831-3041a55117e4" CvElementArea="705, 761, 510, 56" CvType="InputBox" DesignTimeRectangle="706, 762, 509, 55" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='income' tag='INPUT' type='number' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Quanto você ganha antes dos impostos por ano?' aaname='Renda Anual Atual (Antes dos Impostos)' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d8735e61-bc81-4f22-8a19-c7e07b22526f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Solicitar empréstimo UiBank' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a2427d06-c9b4-449d-a831-3041a55117e4" CvTextArea="704, 744, 229, 15" CvTextArgument="Renda Anual Atual (Antes dos Impostos)" CvType="Text" DesignTimeRectangle="706, 743, 227, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='LABEL' class='uibank-label' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Renda Anual Atual (Antes dos Impostos)' /&gt;" Guid="c1894f50-9205-4f72-8659-092e57f09dab" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a82db37a1a17918af9f63d054a6ea33f.png" xmlns="">0JLATKMiFkkKK1YJab6LE6w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

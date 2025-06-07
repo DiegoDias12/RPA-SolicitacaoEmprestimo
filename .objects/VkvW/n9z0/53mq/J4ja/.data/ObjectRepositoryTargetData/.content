@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_oMVKfI-50CnuIzqCyrSwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/684484d72dde52004ae2c457/8/true" CVScreenId="6265adf8-4259-43ad-9253-035c86b1a5d9" CvTextArea="409, 434, 1115, 37" CvTextArgument="Você foi aprovado para um empréstimo com O UiBank!" CvType="Text" DesignTimeRectangle="412, 426, 1112, 56" FuzzySelectorArgument="&lt;webctrl type='' class='' isleaf='1' tag='FONT' aaname='Você foi aprovado para um empréstimo com o UiBank!' matching:class='fuzzy' fuzzylevel:class='0.0' matching:isleaf='fuzzy' fuzzylevel:isleaf='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Você foi aprovado para um empréstimo com o UiBank!' /&gt;" Guid="185fddb4-e0d7-4b4a-b24d-8dedae96ae65" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="85c6d0aa36183cc7f35a1c1dd5d2cc91.png" xmlns="">0FWmiMiY9uUKKygimkRPvng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mm4BkRqHBkexQDA2TdRY8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/68448b2c2dde52004ae2c461/11/true" CVScreenId="f30cc340-dba1-4388-81e8-f05ba0ee50e4" CvType="AnyWordGroup" DesignTimeRectangle="921, 515, 17, 33" FullSelectorArgument="&lt;webctrl isleaf='1' parentid='rateValue' tag='FONT' /&gt;" Guid="6766db10-9f72-4f95-b0af-af7e4807c4f4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="31a761524a39efb2db0e181fec98a813.png" xmlns="">0xTBerCsB3EGrwcVfGKbTig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
